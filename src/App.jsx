@@ -50,7 +50,7 @@ function App() {
       <section className="video-hero">
         <img
           className="video-hero-bg"
-          src="/images/Hero_1.png"
+          src="/images/Hero_1.jpg"
           alt="Hero Background"
         />
         <div className="hero-overlay-text">
