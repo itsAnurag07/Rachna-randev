@@ -60,7 +60,7 @@ function App() {
 
       {/* Hero Section */}
       <section className="hero">
-        <div className="container">
+        <div className="container" style={{ maxWidth: '1600px' }}>
           <div className="hero-title-area text-center">
             <h1 className="heading-medium hero-title" style={{ marginBottom: '1.5rem', marginTop: '5rem' }}>Romantic & Artful</h1>
             <div className="hero-location">New York & Destination</div>
