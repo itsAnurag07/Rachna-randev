@@ -175,7 +175,7 @@ function App() {
       {/* Contact */}
       <section className="contact-section">
         <div className="contact-card">
-          <h2 className="heading-medium contact-title">Let's document your story</h2>
+          <h2 className="heading-medium contact-title">Let's document your story  </h2>
           <form onSubmit={(e) => e.preventDefault()}>
             <div className="form-group">
               <input type="text" className="form-control" placeholder="NAME *" required />
